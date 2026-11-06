@@ -72,8 +72,6 @@ Spooky-Central/
 └── README.md
 ```
 
-*Observação: a estrutura acima é uma sugestão de organização. Ajuste os nomes das pastas conforme os arquivos reais do projeto.*
-
 ## 🎃 Objetivo
 
 Praticar conceitos de desenvolvimento web, estruturação HTML, estilização CSS e utilização do framework Bootstrap, desenvolvendo uma página temática com componentes visuais e interativos.
